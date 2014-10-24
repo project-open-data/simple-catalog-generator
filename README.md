@@ -11,4 +11,5 @@ Using GH-Pages, it's possible to take yml or csv files and automatically generat
 
 ### Other Links 
 * [Issue on Project Open Data](https://github.com/project-open-data/project-open-data.github.io/issues/384)
+* [Schema v1.1 material](http://project-open-data.civicagency.org/catalog/#version-11-update)
 
