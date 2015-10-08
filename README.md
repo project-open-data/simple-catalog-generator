@@ -5,8 +5,8 @@ Using GH-Pages, it's possible to take yml or csv files and automatically generat
 
 **Proposal**: Enable an agency to post a formatted CSV file in the `_data` folder and have a schema compliant `data.json` file automatically result.  
 
-* [Sample CSV](https://github.com/GSA/simple-catalog-generator/blob/gh-pages/_data/data.csv)
-* [Resulting JSON](https://gsa.github.io/simple-catalog-generator/data.json) 
+* [Sample CSV](https://github.com/project-open-data/simple-catalog-generator/blob/gh-pages/_data/data.csv)
+* [Resulting JSON](https://project-open-data.github.io/simple-catalog-generator/data.json) 
 
 
 ### Other Links 
